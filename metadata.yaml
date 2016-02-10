@@ -1,0 +1,31 @@
+_repo: A-History-of-Bohemian-Literature_46790
+contributor:
+  creator:
+    editor:
+      agent_name: Gosse, Edmund
+      aliases:
+      - Gosse, Edmund W. (Edmund William)
+      - Gosse, Edmund William, Sir
+      birthdate: &id001 1849
+      deathdate: 1928
+      gutenberg_agent_id: '959'
+      url: http://www.gutenberg.org/2009/agents/959
+      wikipedia: http://en.wikipedia.org/wiki/Edmund_Gosse
+creator:
+  author:
+    agent_name: Lützow, Count Francis (František)
+    birthdate: *id001
+    deathdate: 1916
+    gutenberg_agent_id: '43835'
+    url: http://www.gutenberg.org/2009/agents/43835
+description: ''
+gutenberg_issued: '2014-09-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46790'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: A History of Bohemian Literature
+url: http://www.gutenberg.org/ebooks/46790
